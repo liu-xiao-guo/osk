@@ -1,0 +1,17 @@
+{
+    "name": "osk.liu-xiao-guo",
+    "description": "description of osk",
+    "architecture": "@CLICK_ARCH@",
+    "title": "osk",
+    "hooks": {
+        "onscreenkeyboard": {
+            "apparmor": "onscreenkeyboard/onscreenkeyboard.apparmor",
+            "desktop":  "onscreenkeyboard/onscreenkeyboard.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

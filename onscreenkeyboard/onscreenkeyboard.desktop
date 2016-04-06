@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=onscreenkeyboard
+Exec=qmlscene %U onscreenkeyboard/Main.qml
+Icon=onscreenkeyboard/onscreenkeyboard.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
