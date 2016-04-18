@@ -19,6 +19,7 @@ MainView {
 
     Page {
         title: i18n.tr("onscreenkeyboard")
+        anchors.fill: parent
 
         Flickable {
             id: sampleFlickable
